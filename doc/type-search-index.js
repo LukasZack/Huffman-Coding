@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"p2","l":"HuffmanCoding"},{"p":"p2.DataStructures.SortedList","l":"SortedLinkedList"}];updateSearchResults();
